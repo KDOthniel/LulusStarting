@@ -8,7 +8,7 @@ at all.
 
 I am in one the best university in the world.. I love to say I am a NU student (lol)
 
-and I proudly belong to the QuARC-labs.. a place I have been the most challenged in 
+and I proudly belong to the QuaRCS-labs.. a place I have been the most challenged in 
 these last six months.. well hold on today is sys.Date()
 
 Welcome in this adventure.. We sure gonna have fun learning and using Github!
